@@ -18,4 +18,4 @@ The project is using the SQLAlchemy Python library to generate the database.
 ## ❔How to generate the UML diagram?
 
 Type `$ python3 models.py` on the console.
-Open he file `diagram.png` to check out your URML diagram!
+Open he file `diagram.png` to check out your URML diagram!# Instagram-Data-Modeling
